@@ -2,6 +2,8 @@
 
 For this assignment, you will implement an interface for conversing with multiple different general-purpose agent personas. BadgerChatGPT is *not* a continuation of our BadgerChat series; it is a standalone project.
 
+**PLEASE DO NOT USE ANY .ENV FILE IN THIS ASSIGNMENT!!!**
+
 ## Setup
 
 You will complete a generative AI agent, BadgerChatGPT, using CS571's AI API, a wrapper around [OpenAI's GPT-4.1 mini](https://openai.com/index/gpt-4-1/).
